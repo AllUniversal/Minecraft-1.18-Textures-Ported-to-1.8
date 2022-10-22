@@ -6,7 +6,7 @@ You can download it by 1. Clicking on the .zip folder:
 
 and 2. Clicking "Download":
 ![image](https://user-images.githubusercontent.com/114624150/197346719-a9f9631c-506a-48c0-8db5-7ccaf2d377ee.png)
-If any textures are missing I either forgot, made a mistake, couldn't bother or preferred the old texture. 
+If any textures are missing I either forgot, made a mistake, couldn't be bothered or preferred the old texture. 
 
 
 You can find all default resourcepacks here: https://texture-packs.com/resourcepack/default-pack/
